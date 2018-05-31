@@ -1,0 +1,6 @@
+<launch>
+
+	<node pkg="rob_moveit_interface" name="rob_moveit_interface" type="rob_moveit_interface" output="screen"> <!--launch-prefix="xterm−e"-->
+	</node>
+
+</launch>

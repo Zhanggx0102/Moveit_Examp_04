@@ -1,0 +1,8 @@
+prefix=/home/shawn/1_catkin_files/ipal_files/23_moveit_example_4/install
+
+Name: rob_control
+Description: Description of rob_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shawn/1_catkin_files/ipal_files/23_moveit_example_4/install/lib 
+Requires: actionlib_msgs
